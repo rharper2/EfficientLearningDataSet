@@ -10,6 +10,8 @@ The data is in the data zip file, the python notebook to read the pickles in the
 
 Complete code to interpret the data and reproduce the plots in the paper can be found as part of Julia package at https://github.com/rharper2/Juqst.jl
 
+Linear_Chain.nb is a Mathematica file that will reproduce figure 4 in the paper.
+
 
 
 
